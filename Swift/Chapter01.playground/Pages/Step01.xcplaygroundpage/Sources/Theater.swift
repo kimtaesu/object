@@ -12,12 +12,12 @@ public class Theater {
     func enter(audience: Audience) {
         if audience.bag.hasInvitation() {
             let ticket = self.ticketSeller.ticketOffice.getTicket()
-            audience.bag.setTicket(ticket: ticket)
+            audience.bag.setTicket(ticket)
         } else {
             let ticket = self.ticketSeller.ticketOffice.getTicket()
-            audience.bag.minusAmount(amount: ticket.fee)
-            ticketSeller.ticketOffice.plusAmount(amount: ticket.fee)
-            audience.bag.setTicket(ticket: ticket)
+            audience.bag.minusAmount(ticket.fee)
+            ticketSeller.ticketOffice.plusAmount(ticket.fee)
+            audience.bag.setTicket(ticket)
         }
     }
 }

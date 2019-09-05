@@ -14,24 +14,30 @@ public class Bag {
         self.amount = amount
         self.invitation = invitation
     }
-    
-    
+
+    func hold(_ ticket: Ticket) -> Int {
+        if (hasInvitation()) {
+            setTicket(ticket)
+            return 0
+        } else {
+            setTicket(ticket)
+            minusAmount(ticket.fee)
+            return ticket.fee
+        }
+    }
+
     func hasInvitation() -> Bool {
         return invitation != nil
     }
     
-    func hasTicket() -> Bool {
-        return ticket != nil
-    }
-    
-    func setTicket(_ ticket: Ticket) {
+    private func setTicket(_ ticket: Ticket) {
         self.ticket = ticket
     }
-    
+
     func minusAmount(_ amount: Int) {
         self.amount -= amount
     }
-    
+
     func plusAmount(_ amount: Int) {
         self.amount += amount
     }
