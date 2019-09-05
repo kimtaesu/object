@@ -1,3 +1,8 @@
-import Foundation
 
-TicketSeller(TicketOffice(tickets: [], amount: 0))
+/*:
+ ## Step 01
+ */
+
+
+//: [Next](@next)
+
