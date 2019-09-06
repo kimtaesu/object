@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Chapter05.playground">
+   </FileRef>
+   <FileRef
       location = "group:/Users/tskim/Documents/OOP/object/Swift/Chapter04.playground">
    </FileRef>
    <FileRef
