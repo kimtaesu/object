@@ -1,4 +1,4 @@
-# object [1~10]
+# object [1~10]장
 오브젝트: 코드로 이해하는 객체지향 설계 예제
 
 * [책의 내용](https://wikibook.co.kr/object/)
