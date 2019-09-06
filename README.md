@@ -5,8 +5,8 @@
 * [유튜브 강의](https://www.youtube.com/watch?v=sWyZUzQW3IM&list=PLBNdLLaRx_rI-UsVIGeWX_iv-e8cxpLxS)
 
 ## 1단계
-* [유튜브 강의](https://www.youtube.com/watch?v=sWyZUzQW3IM&list=PLBNdLLaRx_rI-UsVIGeWX_iv-e8cxpLxS)
-유튜브 강의를 듣고 예제 코드에서 자신의 의견을 정리합니다.
+[유튜브 강의](https://www.youtube.com/watch?v=sWyZUzQW3IM&list=PLBNdLLaRx_rI-UsVIGeWX_iv-e8cxpLxS)
+를 듣고 예제 코드에서 자신의 의견을 정리합니다.
 
 ## 2단계 
 * [책](https://wikibook.co.kr/object/)
