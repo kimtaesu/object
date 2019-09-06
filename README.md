@@ -5,7 +5,7 @@
 * [유튜브 강의](https://www.youtube.com/watch?v=sWyZUzQW3IM&list=PLBNdLLaRx_rI-UsVIGeWX_iv-e8cxpLxS)
 
 ## 1단계
-예제를 통해 자신의 의견을 정리합니다.
+책의 내용을 읽지 않고 예제를 통해 자신의 의견을 정리합니다.
 
 ## 2단계 
 * [책의 내용](https://wikibook.co.kr/object/)
