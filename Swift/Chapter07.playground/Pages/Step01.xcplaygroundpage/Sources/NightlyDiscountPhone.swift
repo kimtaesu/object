@@ -16,7 +16,7 @@ public class NightlyDiscountPhone {
     
     private let calls = [Call]()
     
-    func calculateFee() -> Money {
+    public func calculateFee() -> Money {
         var result = Money.ZERO
         
         let calendar = Calendar.current
