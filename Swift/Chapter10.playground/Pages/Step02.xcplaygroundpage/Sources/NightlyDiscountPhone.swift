@@ -20,6 +20,7 @@ public class NightlyDiscountPhone {
 
 
     public func calculateFee() -> Money {
+        if seconds.seconds <= 0 { return Money.ZERO }
         var result = Money.ZERO
 
         let calendar = Calendar.current
