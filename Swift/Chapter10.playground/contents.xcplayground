@@ -4,5 +4,6 @@
         <page name='Step01'/>
         <page name='Step02'/>
         <page name='Step03'/>
+        <page name='Step04'/>
     </pages>
 </playground>
