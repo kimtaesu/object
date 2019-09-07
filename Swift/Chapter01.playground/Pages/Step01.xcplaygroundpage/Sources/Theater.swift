@@ -9,6 +9,7 @@ public class Theater {
         self.ticketSeller = ticketSeller
     }
     
+    
     func enter(audience: Audience) {
         if audience.bag.hasInvitation() {
             let ticket = self.ticketSeller.ticketOffice.getTicket()
