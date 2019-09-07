@@ -8,6 +8,6 @@ public class TicketSeller {
     }
     
     public func setTicket(_ audience: Audience) {
-        ticketOffice.plusAmount(audience.setTicket(ticket: ticketOffice.getTicket()))
+        ticketOffice.plusAmount(audience.setTicket(ticket: try! ticketOffice.getTicket()))
     }
 }

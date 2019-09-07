@@ -9,6 +9,6 @@ public class TicketSeller {
     }
 
     public func sellTo(_ audience: Audience) {
-        ticketOffice.plusAmount(audience.buy(ticketOffice.getTicket()))
+        ticketOffice.plusAmount(audience.buy(try! ticketOffice.getTicket()))
     }
 }

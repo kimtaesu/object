@@ -9,7 +9,7 @@ public class Theater {
         self.ticketSeller = ticketSeller
     }
     
-    func enter(audience: Audience) {
+    public func enter(audience: Audience) {
         ticketSeller.setTicket(audience)
     }
 }

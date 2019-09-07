@@ -15,7 +15,7 @@ public class Event {
         self.duration = duration
     }
     
-    func isSatisfied(schedule: RecurringSchedule) -> Bool {
+    public func isSatisfied(schedule: RecurringSchedule) -> Bool {
         if from != schedule.dayOfWeek ||
             from != schedule.from ||
             duration != schedule.duration

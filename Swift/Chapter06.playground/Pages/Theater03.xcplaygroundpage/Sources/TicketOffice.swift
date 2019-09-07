@@ -1,6 +1,8 @@
 import Foundation
 
-
+enum TicketError: Error {
+    case noTickets
+}
 public class TicketOffice {
     private var tickets: [Ticket]
     private var amount: Int
@@ -10,7 +12,9 @@ public class TicketOffice {
         self.amount = amount
     }
     
-    func getTicket() -> Ticket {
+    func getTicket() throws -> Ticket {
+        if tickets.isEmpty { throw TicketError.noTickets }
+        
         return tickets.remove(at: 0)
     }
     
