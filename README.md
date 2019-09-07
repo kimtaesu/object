@@ -1,4 +1,5 @@
-# object [1~10]장 스터디입니다.
+# 객체지향 설계 SOLID 원칙을 공부하는 스터디입니다.
+
 오브젝트: 코드로 이해하는 객체지향 설계 예제
 
 ### 장소 및 시간
@@ -6,31 +7,106 @@
 
 스터디의 전체기간은 3개월입니다.
 
-### 스터디범위
-1장 2장 3장 4장 5장 6장 7장 8장 9장 10장
+### 1주차 
+* [클린 코더스 강의 12. SOLID Foundation 31분](https://www.youtube.com/watch?v=HIWJ8sF8lO8&list=PL7pUrjEGbG8ZMPQ-XukPJsFyMeyvtGcnV&index=14) 
+* [클린 코더스 강의 13. SRP(Single Responsibility Principle) 30분](https://www.youtube.com/watch?v=AdANHDp5dTM&list=PL7pUrjEGbG8ZMPQ-XukPJsFyMeyvtGcnV&index=15) 
+
+### 2주차 
+* [클린 코더스 강의 14.1. OCP(Open-Closed Principle) 35분](https://www.youtube.com/watch?v=dqa-IdafeIE&list=PL7pUrjEGbG8ZMPQ-XukPJsFyMeyvtGcnV&index=16) 
+* [클린 코더스 강의 14.2. LSP(Liskov Substitution Principle) 7분](https://www.youtube.com/watch?v=OfVwuWJSHOY&list=PL7pUrjEGbG8ZMPQ-XukPJsFyMeyvtGcnV&index=17) 
+* [클린 코더스 강의 14.3. ISP(Interface Segregation Principle) 24분](https://www.youtube.com/watch?v=OfVwuWJSHOY&list=PL7pUrjEGbG8ZMPQ-XukPJsFyMeyvtGcnV&index=18) 
+
+### 3주차 
+* [클린 코더스 강의 15.1. DIP(Dependency Inversion Principle) 25분](https://www.youtube.com/watch?v=mI1PsrgogCw&list=PL7pUrjEGbG8ZMPQ-XukPJsFyMeyvtGcnV&index=19) 
+* [클린 코더스 강의 15.2. SOLID Case Study 31분](https://www.youtube.com/watch?v=SaycTFHwpYQ&list=PL7pUrjEGbG8ZMPQ-XukPJsFyMeyvtGcnV&index=20) 
+
+### 4주차 
+[코드스피츠 83 오브젝트 - 1회차(1) 1시간](https://www.youtube.com/watch?v=sWyZUzQW3IM)
+
+코드 보며 토론하기
+
+[Java, Kotlin](https://github.com/ObjectStudy/object/tree/master/chapter01)
+[Swift](https://github.com/ObjectStudy/object/tree/master/Swift/Chapter01.playground)
+
+### 5주차 
+[코드스피츠 83 오브젝트 - 1회차(2) 1시간](https://www.youtube.com/watch?v=navJTjZlUGk&)
+
+코드 보며 토론하기
+
+[Java, Kotlin](https://github.com/ObjectStudy/object/tree/master/chapter02)
+[Swift](https://github.com/ObjectStudy/object/tree/master/Swift/Chapter02.playground)
+
+### 6주차 
+[코드스피츠 83 오브젝트 - 3회차 1시간 10분](https://youtu.be/Qa3dRrSbeQI?t=4297)
+
+코드 보며 토론하기
+
+[Java, Kotlin](https://github.com/ObjectStudy/object/tree/master/chapter04)
+[Swift](https://github.com/ObjectStudy/object/tree/master/Swift/Chapter04.playground)
+
+
+### 7주차 
+[코드스피츠 83 오브젝트 - 50분](https://youtu.be/Qa3dRrSbeQI?t=4297)
+
+코드 보며 토론하기
+
+[Java, Kotlin](https://github.com/ObjectStudy/object/tree/master/chapter05)
+[Swift](https://github.com/ObjectStudy/object/tree/master/Swift/Chapter05.playground)
+
+
+### 8주차 
+[코드스피츠 83 오브젝트 - 4회차 1시간 40분](https://www.youtube.com/watch?v=EZht-jB7mr0&t=8s)
+
+코드 보며 토론하기
+
+[Java, Kotlin](https://github.com/ObjectStudy/object/tree/master/chapter06)
+[Swift](https://github.com/ObjectStudy/object/tree/master/Swift/Chapter06.playground)
+
+
+### 9주차 
+[코드스피츠 83 오브젝트 - 5회차 1시간 20분](https://www.youtube.com/watch?v=6Hhj5HO0Wb4)
+
+코드 보며 토론하기
+
+[Java, Kotlin](https://github.com/ObjectStudy/object/tree/master/chapter08)
+[Swift](https://github.com/ObjectStudy/object/tree/master/Swift/Chapter08.playground)
+
+
+### 9주차 
+[코드스피츠 83 오브젝트 - 6회차 1시간 20분](https://www.youtube.com/watch?v=xb0a2QxocaE&list=PLBNdLLaRx_rI-UsVIGeWX_iv-e8cxpLxS&index=7)
+
+코드 보며 토론하기
+
+[Java, Kotlin](https://github.com/ObjectStudy/object/tree/master/chapter09)
+[Swift](https://github.com/ObjectStudy/object/tree/master/Swift/Chapter09.playground)
+
+### 10주차 
+코드 보며 토론하기
+
+[Java, Kotlin](https://github.com/ObjectStudy/object/tree/master/chapter10)
+[Swift](https://github.com/ObjectStudy/object/tree/master/Swift/Chapter10.playground)
+
+### 11주차 
+코드 보며 토론하기
+
+[Java, Kotlin](https://github.com/ObjectStudy/object/tree/master/chapter11)
+[Swift](https://github.com/ObjectStudy/object/tree/master/Swift/Chapter11.playground)
+
+### 12주차 
+
+총 정리
+
 
 ### 진행 방법
 매주 1장씩 예제 코드를 보면서 자신이 이해한 의견을 이야기하는 토론형 스터디입니다.
 
-이전 장의 요약 정리와 이해하지 못한 부분은 다음 발표 시작하면서 30분간 정리합니다.
+이전 장의 요약 정리와 이해하지 못한 부분은 다음 발표 시작하면서 10분간 빠르게 정리합니다.
 
 매주 토론했던 영상은 비공개로 유튜브에 게재합니다.
 
 > 만약 스터디를 한 주 참여하지 못한다면 유튜브를 통해 비공개된 영상을 보고오셔야 합니다.
 
+## 스터디 자료
 * [책](https://wikibook.co.kr/object/)
 * [유튜브 강의](https://www.youtube.com/watch?v=sWyZUzQW3IM&list=PLBNdLLaRx_rI-UsVIGeWX_iv-e8cxpLxS)
 
-## 1단계
-[유튜브 강의](https://www.youtube.com/watch?v=sWyZUzQW3IM&list=PLBNdLLaRx_rI-UsVIGeWX_iv-e8cxpLxS)
-를 듣고 예제 코드에서 자신의 의견을 정리합니다.
-
-## 2단계 
-* [책](https://wikibook.co.kr/object/)
-* [유튜브 강의](https://www.youtube.com/watch?v=sWyZUzQW3IM&list=PLBNdLLaRx_rI-UsVIGeWX_iv-e8cxpLxS)
-
-이해를 바탕으로 예제를 다시 살펴봅니다.
-
-
-## 3단계 (만약 필요하다면) 
-프로젝트를 진행하며 직접 코드를 작성해 봅니다.
