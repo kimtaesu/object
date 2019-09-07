@@ -23,4 +23,7 @@ public class NightlyDiscountPhone: Phone {
             return regularAmount.times(Double(call.duration.seconds / seconds.seconds))
         }
     }
+    public override func afterCalculated(fee: Money) -> Money {
+        return fee
+    }
 }

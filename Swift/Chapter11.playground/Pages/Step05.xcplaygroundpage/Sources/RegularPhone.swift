@@ -1,7 +1,6 @@
 import Foundation
 
-
-public class Phone: AbstractPhone {
+public class RegularPhone: Phone {
 
     let amount: Money
     let seconds: TimeInterval
@@ -11,7 +10,7 @@ public class Phone: AbstractPhone {
         self.seconds = seconds
     }
 
-    override func calculateCallFee(call: Call) -> Money {
+    override public func calculateCallFee(call: Call) -> Money {
         if seconds.seconds <= 0 { return Money.ZERO }
         return amount.times(Double(call.duration.seconds / seconds.seconds))
     }

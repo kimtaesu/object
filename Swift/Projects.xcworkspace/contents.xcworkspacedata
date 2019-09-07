@@ -8,7 +8,7 @@
       location = "group:Chapter02.playground">
    </FileRef>
    <FileRef
-      location = "group:/Users/tskim/Documents/OOP/object/Swift/Chapter04.playground">
+      location = "group:Chapter04.playground">
    </FileRef>
    <FileRef
       location = "group:Chapter05.playground">
@@ -23,6 +23,9 @@
       location = "group:Chapter09.playground">
    </FileRef>
    <FileRef
-      location = "group:/Users/tskim/Documents/OOP/object/Swift/Chapter10.playground">
+      location = "group:Chapter10.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Chapter11.playground">
    </FileRef>
 </Workspace>
