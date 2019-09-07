@@ -72,7 +72,7 @@
 [Swift](https://github.com/ObjectStudy/object/tree/master/Swift/Chapter08.playground)
 
 
-### 9주차 
+### 10주차 
 [코드스피츠 83 오브젝트 - 6회차 1시간 20분](https://www.youtube.com/watch?v=xb0a2QxocaE&list=PLBNdLLaRx_rI-UsVIGeWX_iv-e8cxpLxS&index=7)
 
 코드 보며 토론하기
@@ -80,17 +80,11 @@
 [Java, Kotlin](https://github.com/ObjectStudy/object/tree/master/chapter09)
 [Swift](https://github.com/ObjectStudy/object/tree/master/Swift/Chapter09.playground)
 
-### 10주차 
+### 11주차 
 코드 보며 토론하기
 
 [Java, Kotlin](https://github.com/ObjectStudy/object/tree/master/chapter10)
 [Swift](https://github.com/ObjectStudy/object/tree/master/Swift/Chapter10.playground)
-
-### 11주차 
-코드 보며 토론하기
-
-[Java, Kotlin](https://github.com/ObjectStudy/object/tree/master/chapter11)
-[Swift](https://github.com/ObjectStudy/object/tree/master/Swift/Chapter11.playground)
 
 ### 12주차 
 
