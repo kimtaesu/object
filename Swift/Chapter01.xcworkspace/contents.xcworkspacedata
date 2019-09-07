@@ -4,4 +4,25 @@
    <FileRef
       location = "group:Chapter01.playground">
    </FileRef>
+   <FileRef
+      location = "group:Chapter02.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/tskim/Documents/OOP/object/Swift/Chapter04.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Chapter05.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Chapter06.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Chapter08.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Chapter09.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/tskim/Documents/OOP/object/Swift/Chapter10.playground">
+   </FileRef>
 </Workspace>
