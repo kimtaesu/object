@@ -7,14 +7,14 @@
 ### Java 에서는 "abstract class" 선언되어 있지만 Swift "abstract" 키워드가 없기 때문에 어떻게 표현해야 할지? 
  - 부모에 abstract method 키워드가 있으면 상속하도록 하였습니다.
  
- 부모의 override 함수
+ 부모의 abstract method
  ```
  public func calculateDiscountAmount() -> Money {
         fatalError("Not implements")
     }
  ```
 
-자식의 override 함수
+자식의 override method
  ```
 override func calculateDiscountAmount() -> Money {
     return discountAmount
