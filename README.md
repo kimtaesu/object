@@ -7,6 +7,20 @@
 
 스터디의 전체기간은 3개월입니다.
 
+
+### 진행 방법
+매주 약 1시간 가량의 동영상을 같이 시청하며 이야기하는 토론형 스터디입니다.
+
+이전 장의 요약 정리와 이해하지 못한 부분은 다음 발표 시작하면서 10분간 빠르게 정리합니다.
+
+매주 토론했던 영상은 비공개로 유튜브에 게재합니다.
+
+> 만약 스터디를 한 주 참여하지 못한다면 유튜브를 통해 비공개된 영상을 보고오셔야 합니다.
+
+## 스터디 자료
+* [책](https://wikibook.co.kr/object/)
+* [유튜브 강의](https://www.youtube.com/watch?v=sWyZUzQW3IM&list=PLBNdLLaRx_rI-UsVIGeWX_iv-e8cxpLxS)
+
 ### 1주차 
 * [클린 코더스 강의 12. SOLID Foundation 31분](https://www.youtube.com/watch?v=HIWJ8sF8lO8&list=PL7pUrjEGbG8ZMPQ-XukPJsFyMeyvtGcnV&index=14) 
 * [클린 코더스 강의 13. SRP(Single Responsibility Principle) 30분](https://www.youtube.com/watch?v=AdANHDp5dTM&list=PL7pUrjEGbG8ZMPQ-XukPJsFyMeyvtGcnV&index=15) 
@@ -89,18 +103,3 @@
 ### 12주차 
 
 총 정리
-
-
-### 진행 방법
-매주 1장씩 예제 코드를 보면서 자신이 이해한 의견을 이야기하는 토론형 스터디입니다.
-
-이전 장의 요약 정리와 이해하지 못한 부분은 다음 발표 시작하면서 10분간 빠르게 정리합니다.
-
-매주 토론했던 영상은 비공개로 유튜브에 게재합니다.
-
-> 만약 스터디를 한 주 참여하지 못한다면 유튜브를 통해 비공개된 영상을 보고오셔야 합니다.
-
-## 스터디 자료
-* [책](https://wikibook.co.kr/object/)
-* [유튜브 강의](https://www.youtube.com/watch?v=sWyZUzQW3IM&list=PLBNdLLaRx_rI-UsVIGeWX_iv-e8cxpLxS)
-
