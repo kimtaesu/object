@@ -1,7 +1,6 @@
 ## Java를 Swift 로 옮기면서 모호했던 부분
 
-### Java 에서는 "Class" 로 선언되어 있지만 Swift 에서는 "class" 키워드가 없습니다.
-"struct" 을 어떻게 표현해야 할지?
+### Java 에서는 "Class" 로 선언되어 있지만 Swift 에서는 "class" 를 "struct" 으로 대체할 수 있습니다.
 
 - 데이터 모델로 판단되는 class 는 struct 선언하였습니다.
 
