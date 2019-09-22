@@ -27,6 +27,10 @@
 * [클린 코더스 강의 12. SOLID Foundation 31분](https://www.youtube.com/watch?v=HIWJ8sF8lO8&list=PL7pUrjEGbG8ZMPQ-XukPJsFyMeyvtGcnV&index=14) 
 * [클린 코더스 강의 13. SRP(Single Responsibility Principle) 30분](https://www.youtube.com/watch?v=AdANHDp5dTM&list=PL7pUrjEGbG8ZMPQ-XukPJsFyMeyvtGcnV&index=15) 
 
+스터디 내용
+1. [SOLID Foundation](https://youtu.be/Uy6K7ralEns)
+2. [SRP(Single Responsibility Principle)](https://youtu.be/rmkBF17Lt-k)
+
 ### 2주차 
 * [클린 코더스 강의 14.1. OCP(Open-Closed Principle) 35분](https://www.youtube.com/watch?v=dqa-IdafeIE&list=PL7pUrjEGbG8ZMPQ-XukPJsFyMeyvtGcnV&index=16) 
 * [클린 코더스 강의 14.2. LSP(Liskov Substitution Principle) 7분](https://www.youtube.com/watch?v=OfVwuWJSHOY&list=PL7pUrjEGbG8ZMPQ-XukPJsFyMeyvtGcnV&index=17) 
