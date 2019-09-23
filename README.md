@@ -36,6 +36,11 @@
 * [클린 코더스 강의 14.2. LSP(Liskov Substitution Principle) 7분](https://www.youtube.com/watch?v=OfVwuWJSHOY&list=PL7pUrjEGbG8ZMPQ-XukPJsFyMeyvtGcnV&index=17) 
 * [클린 코더스 강의 14.3. ISP(Interface Segregation Principle) 24분](https://www.youtube.com/watch?v=OfVwuWJSHOY&list=PL7pUrjEGbG8ZMPQ-XukPJsFyMeyvtGcnV&index=18) 
 
+스터디 내용
+1. [2주차 (1/3)](https://youtu.be/l7aGHU6R2AQ)
+2. [2주차 (2/3)](https://youtu.be/BFM4d1I4PEY)
+3. [2주차 (3/3)](https://youtu.be/FmLUSQOJohc)
+
 ### 3주차 
 * [클린 코더스 강의 15.1. DIP(Dependency Inversion Principle) 25분](https://www.youtube.com/watch?v=mI1PsrgogCw&list=PL7pUrjEGbG8ZMPQ-XukPJsFyMeyvtGcnV&index=19) 
 * [클린 코더스 강의 15.2. SOLID Case Study 31분](https://www.youtube.com/watch?v=SaycTFHwpYQ&list=PL7pUrjEGbG8ZMPQ-XukPJsFyMeyvtGcnV&index=20) 
