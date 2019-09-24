@@ -105,12 +105,8 @@
 [Java, Kotlin](https://github.com/ObjectStudy/object/tree/master/chapter09)
 [Swift](https://github.com/ObjectStudy/object/tree/master/Swift/Chapter09.playground)
 
-### 11주차 
-코드 보며 토론하기
+### 11주차, 12주차 
 
-[Java, Kotlin](https://github.com/ObjectStudy/object/tree/master/chapter10)
-[Swift](https://github.com/ObjectStudy/object/tree/master/Swift/Chapter10.playground)
+코드로 익히지 않으면 금방 잊어버릴 수 있습니다.
 
-### 12주차 
-
-총 정리
+2인 1조로 같은 주제에 대해서 미니프로젝트를 진행합니다.
